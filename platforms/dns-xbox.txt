@@ -11,6 +11,7 @@ digicert.com
 gfx.ms
 avatarcloset-pvt.int2.xboxlive.com
 xbox.com
+xboxservices.com
 teal.xboxservices.com
 activeauth.argo.xboxlive.com
 esearch.nonprod.xboxlive.com
@@ -32,7 +33,8 @@ addr.tools
 account.live.com
 titlestorage.xboxlive.com
 microsoftonline.com
-xsts.auth.xboxlive.comber01p.gssv-apxy-prod.xboxlive.com
+xsts.auth.xboxlive.com
+ber01p.gssv-apxy-prod.xboxlive.com
 xlptools.xboxlive.com
 login.live.com
 o.gfx.ms
